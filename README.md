@@ -29,8 +29,8 @@ python3 extract.py --mode bert
 
 ## Note
 
-The GPU based training can be done using `Colab training: Triples.ipynb` notebook. 
-The GPU based k-fold inference can be done using `Colab inference: Triples.ipynb` notebook. 
+The GPU based training can be done using `Colab_training: Triples.ipynb` notebook. 
+The GPU based k-fold inference can be done using `Colab_inference: Triples.ipynb` notebook. 
 
 To use these notebooks, please point the required data/checkpoints in the Config->Globals section.
 
